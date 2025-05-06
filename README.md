@@ -53,10 +53,7 @@ Perform **unsupervised learning** on mall customer data to segment customers int
 
 ---
 
-##  Results
-| Cluster | Avg Age | Avg Income (k$) | Avg Spending Score |
-|---------|---------|-----------------|---------------------|
-| (You can fill this table from your grouped data summary) |
+
 
 **Insights**:
 - Some clusters represent high-income, low-spending customers.
